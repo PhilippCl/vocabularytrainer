@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="mainPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.chrisphil.vocabularytrainer.app.controller.LangExcercise">
+   <bottom>
+      <HBox BorderPane.alignment="CENTER">
+         <children>
+            <JFXButton fx:id="quitButton" buttonType="RAISED" text="Beenden" />
+            <Pane HBox.hgrow="ALWAYS" />
+            <JFXButton fx:id="startButton" buttonType="RAISED" text="Starten" />
+            <Pane HBox.hgrow="ALWAYS" />
+            <JFXButton fx:id="nextButton" buttonType="RAISED" text="Weiter" />
+         </children>
+         <BorderPane.margin>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </BorderPane.margin>
+      </HBox>
+   </bottom>
+   <top>
+      <HBox BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="allLangLabel" text="Nach Sprachen" />
+            <Pane HBox.hgrow="ALWAYS" />
+            <Label fx:id="langAmountLabel" text="Vokabel 5 von 1000" />
+         </children>
+      </HBox>
+   </top>
+   <center>
+      <VBox fx:id="langSelectVBox" spacing="10.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Bitte Sprachen anklicken">
+               <VBox.margin>
+                  <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+               </VBox.margin>
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <JFXListView fx:id="langListView" />
+         </children>
+         <BorderPane.margin>
+            <Insets left="40.0" right="40.0" />
+         </BorderPane.margin>
+      </VBox>
+   </center>
+</BorderPane>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.chrisphil.vocabularytrainer.app.controller.HelpMenu">
+   <center>
+      <AnchorPane>
+         <children>
+            <TextArea fx:id="helpTextArea" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="10.0" BorderPane.alignment="CENTER" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

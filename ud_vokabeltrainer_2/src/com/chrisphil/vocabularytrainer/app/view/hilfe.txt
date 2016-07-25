@@ -1,0 +1,80 @@
+1. Lektionen bearbeiten
+	1.1 Neue Lektion anlegen
+	1.2 Lektion bearbeiten
+	1.3 Lektion loeschen
+
+2. Vokabeln bearbeiten
+	2.1 Neue Vokabel anlegen
+	2.2 Vokabel bearbeiten
+	2.3 Vokabel loeschen
+
+3. Abfragemoeglichkeiten
+	3.1 Alle Vokabeln abfragen
+	3.2 Abfrage nach Lektionen
+	3.3 Abfrage nach Sprache	
+	
+
+
+
+1. Lektionen bearbeiten
+
+1.1 Neue Lektion anlegen
+Um eine neue Lektion anzulegen geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue. 
+Jetzt sieht man auf der linken Seite den Button mit der Aufschrift '+1'.
+Mit einem Klick darauf oeffnet sich sich ein Dialog in dem man den Namen der neuen Lektion eingeben muss. 
+Nachdem der Name eingegeben ist, kann man mit 'Ok' oder der Enter-Taste besteatigen.
+
+1.2 Lektion bearbeiten
+Um eine Lektion zu bearbeiten geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue. 
+Jetzt sieht man auf der linken Seite eine Lektionsliste mit allen bereits erstellten Lektionen.
+Aus dieser Liste muss man sich nun die zu bearbeitende Lektion raus suchen und anklicken.
+Rechts von der Lektionsliste kann man nun den Namen, die Sprache und die Vokabeln der  Lektion bearbeiten.
+Anschließend muessen die eanderungen mit einem Klick auf den Button mit der Diskette gespeichert werden.
+
+1.3 Lektion loeschen
+
+Um eine Lektion zu loeschen geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue. 
+Jetzt sieht man auf der linken Seite eine Lektionsliste mit allen bereits erstellten Lektionen.
+Aus dieser Liste muss man sich nun die zu loeschende Lektion raus suchen und anklicken.
+Mit einem Klick auf den Button mit dem Muelltonnensymbol ueber der Liste wird die angeweahlte Lektion geloescht.
+
+
+2. Vokabeln bearbeiten
+
+2.1 Neue Vokabel anlegen
+Um eine neue Vokabel anzulegen geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue.
+Jetzt sieht man auf der linken Seite eine Lektionsliste mit allen bereits erstellten Lektionen.
+Aus dieser Liste muss man sich nun die Lektion raus suchen, in der die neue Vokabel angelegt werden soll. Wenn man sie gefunden hat einmal anklicken.
+Auf der rechten Seite sieht man nun einen Button mit der Aufschrift '+1'.
+Mit einem Klick auf den Button oeffnet sich ein Fenster, in dem man die Vokabel in seinen beiden Sprachen, die beiden Sprachen und den Typen der Vokabel eingeben muss.
+Wenn alles eingegeben wurde, kann man mit 'Ok' besteatigen. 
+
+2.2 Vokabel bearbeiten
+Um eine Vokabel zu bearbeiten geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue.
+Jetzt sieht man auf der linken Seite eine Lektionsliste mit allen bereits erstellten Lektionen.
+Aus dieser Liste muss man sich nun die Lektion raus suchen, in der die Vokabel bearbeitet werden soll. Wenn man sie gefunden hat einmal anklicken.
+Auf der rechten Seite sieht man nun eine Vokabelliste, aus der man sich die zu bearbeitende Vokabel raus suchen muss. Wenn man sie gefunden hat einmal anklicken.
+Jetzt klickt man auf den Button mit einem Bleistift unter der der Vokabelliste.
+Es oeffnet sich ein Fenster, in dem man die Werte der Vokabel eandern kann.
+Wenn alles eingegeben wurde, kann man mit 'Ok' besteatigen. 
+
+
+2.3 Vokabel loeschen
+
+Um eine Vokabel zu loeschen geht man zuneachst vom Hauptmenue aus in das 'Lektionen bearbeiten' Menue.
+Jetzt sieht man auf der linken Seite eine Lektionsliste mit allen bereits erstellten Lektionen.
+Aus dieser Liste muss man sich nun die Lektion raus suchen, in der die Vokabel geloescht werden soll. Wenn man sie gefunden hat einmal anklicken.
+Auf der rechten Seite sieht man nun eine Vokabelliste, aus der man sich die zu loeschende Vokabel raus suchen muss. Wenn man sie gefunden hat einmal anklicken.
+Mit einem Klick auf den Button mit dem Muelltonnensymbol unter der Vokabelliste wird die Vokabel geloescht.
+
+
+3. Abfragemoeglichkeiten
+
+3.1 Alle Vokabeln abfragen
+In diesem Modus werden alle Vokabeln unabheangig von Lektion und Sprache abgefragt.
+
+3.2 Abfrage nach Lektionen
+In diesem Modus kann man die Lektionen, die abgefragt werden sollen, vor der Abfrage ausweahlen.
+
+3.3 Abfrage nach Sprache
+In diesem Modus kann man eine Sprache angeben. Das Programm sucht dann alle Vokabeln mit dieser Sprache raus und fragt sie ab.

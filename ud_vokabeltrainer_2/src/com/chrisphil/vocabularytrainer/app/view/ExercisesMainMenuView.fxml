@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
+
+
+<GridPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.chrisphil.vocabularytrainer.app.controller.ExercisesMainMenu">
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" percentHeight="33.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" percentHeight="33.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" percentHeight="33.0" prefHeight="30.0" />
+   </rowConstraints>
+   <columnConstraints>
+      <ColumnConstraints minWidth="10.0" percentWidth="100.0" prefWidth="100.0" />
+   </columnConstraints>
+   <children>
+      <AnchorPane>
+         <children>
+            <JFXButton fx:id="allVocButton" buttonType="RAISED" layoutX="42.0" layoutY="3.0" text="Alle Vokabeln abfragen" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0" />
+         </children>
+      </AnchorPane>
+      <AnchorPane GridPane.rowIndex="1">
+         <children>
+            <JFXButton fx:id="diffLessButton" buttonType="RAISED" layoutX="42.0" layoutY="4.0" text="Verschiedene Lektionen abfragen" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0" />
+         </children>
+      </AnchorPane>
+      <AnchorPane GridPane.rowIndex="2">
+         <children>
+            <JFXButton fx:id="langButton" buttonType="RAISED" layoutX="34.0" layoutY="4.0" text="Nach Sprache abfragen" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>
