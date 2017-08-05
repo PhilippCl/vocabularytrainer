@@ -2,14 +2,13 @@
 A simple Vocabularytrainer written in Java. Menu Lang in German at the moment. Made for a Course called Usability & Data visualization.
 
 Using [FXIconics](https://github.com/pepperonas/FxIconics) , [Gson](https://github.com/google/gson) , [JFoenix](https://github.com/jfoenixadmin/JFoenix)
-#Images
+## Images
 ![mainmenu](http://i.imgur.com/xKYoDqZ.png)
 
 ![editmenu](http://i.imgur.com/F3Rq1hO.png)
 
 ![lessons](http://i.imgur.com/TzLiTU1.png)
-
-#Credits
+## Credits
 
 Christopher Kluck for helping me with programming,designing etc.
 
